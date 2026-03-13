@@ -69,11 +69,7 @@ function Hero(){
             <a href="#contato" className="btn btn-primary">Agendar conversa</a>
             <a href="#servicos" className="btn btn-outline">Ver serviços</a>
           </div>
-          <ul className="bullets">
-            <li>✓ SEO técnico pronto</li>
-            <li>✓ Carregamento rápido</li>
-            <li>✓ Formulário + WhatsApp</li>
-          </ul>
+
         </div>
         <div className="hero-card">
           <div className="stat"><strong>+30%</strong><span>produtividade média</span></div>
