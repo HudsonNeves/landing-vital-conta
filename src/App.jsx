@@ -180,10 +180,10 @@ function Contato(){
         <form className="form" onSubmit={onSubmit}>
           <div className="grid-2">
             <label>Nome<input name="nome" required placeholder="Seu nome"/></label>
-            <label>Email<input name="email" type="email" required placeholder="professorhnsilva@gmail.com"/></label>
+            <label>Email<input name="email" type="email" required placeholder=""/></label>
           </div>
           <div className="grid-2">
-            <label>Telefone<input name="telefone" placeholder="(61) 98447-1094"/></label>
+            <label>Telefone<input name="telefone" placeholder=""/></label>
             <label>Assunto<input name="assunto" placeholder="Como podemos ajudar?"/></label>
           </div>
           <label>Mensagem<textarea name="mensagem" rows="5" placeholder="Conte um pouco sobre sua necessidade"></textarea></label>
