@@ -1,17 +1,19 @@
+# Landing Page Institucional — React + Vite (CSS puro)
 
-# Landing Page Institucional (React + Vite)
+Projeto de **landing page** institucional simples, **sem backend**, focada em conversão e performance. Desenvolvida em **React 18 + Vite 5**, com **CSS puro** (sem Tailwind), **menu mobile com hambúrguer**, **overlay**, **bloqueio de scroll**, formulário via `mailto:` e botão de **WhatsApp**.
 
-- Mobile menu com **hamburger**, overlay e bloqueio de scroll.
-- Sem backend: formulário usa `mailto:` + botão de WhatsApp.
-- Contatos padrões no formulário: email e telefone.
+---
 
-## Rodar (Node 24)
+## 🔧 Requisitos
+- **Windows 11** (qualquer edição)
+- **Node.js 20+** (testado com **Node 24**)
+- NPM (instalado com o Node)
+
+> Dica: confirme a versão com `node -v`.
+
+---
+
+## ▶️ Como rodar
 ```bash
 npm install
 npm run dev
-```
-Build:
-```bash
-npm run build
-npm run preview
-```
